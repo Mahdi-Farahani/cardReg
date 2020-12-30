@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Quarter Dark and Leg",
+        "price": "$16.67",
+        "category": "Fastfood",
+        "transport": "Free Pickup",
+        "delivery": "40-60 Mins",
+        "image": "https://cdn.opeqe.com/image/menu/s/11.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Avocado Bacon Cheeseburger",
+        "price": "$7.69",
+        "category": "Fastfood",
+        "transport": "Free Pickup",
+        "delivery": "10-15 Mins",
+        "image": "https://cdn.opeqe.com/image/menu/s/12.jpg"
+    },
+    {
+        "id": 3,
+        "title": "T-Bone Steak & Eggs",
+        "price": "$16.99",
+        "category": "A'la Carte",
+        "transport": "Free Pickup",
+        "delivery": "4-6 Mins",
+        "image": "https://cdn.opeqe.com/image/menu/s/3.jpg"
+    }
+]
